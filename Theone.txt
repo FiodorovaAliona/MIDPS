@@ -118,7 +118,7 @@ int main(){
 				break;
 			}
 			case 5 : {
-				cout<<"Neocheni normalinaia laba"<<sum()<<"."<<endl;
+				cout<<"oceni neponetnaia laba"<<sum()<<"."<<endl;
 				system("pause");
 				system("cls");
 				break;
