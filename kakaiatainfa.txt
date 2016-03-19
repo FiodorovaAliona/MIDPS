@@ -38,6 +38,6 @@ Label1->Caption="i была декрементированна ";
 
 void __fastcall TForm1::Button3Click(TObject *Sender)
 {
-Close();        
+Exit();        
 }
 //---------------------------------------------------------------------------
