@@ -118,7 +118,7 @@ int main(){
 				break;
 			}
 			case 5 : {
-				cout<<"Sum of the even elements of a Vector="<<sum()<<"."<<endl;
+				cout<<"Dobrii vecer"<<sum()<<"."<<endl;
 				system("pause");
 				system("cls");
 				break;
