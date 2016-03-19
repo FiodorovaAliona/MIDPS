@@ -118,7 +118,7 @@ int main(){
 				break;
 			}
 			case 5 : {
-				cout<<"Dobrii vecer"<<sum()<<"."<<endl;
+				cout<<"Neocheni normalinaia laba"<<sum()<<"."<<endl;
 				system("pause");
 				system("cls");
 				break;
