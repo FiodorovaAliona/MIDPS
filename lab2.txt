@@ -93,7 +93,7 @@ int main(){
 				break;
 			}
 			case 3 :{
-				cout<<"New size is:";
+				cout<<"Novii razmer:";
 				cin>>s;
 				change(&V,s);
 				cout<<"Size Changed."<<endl;
