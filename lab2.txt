@@ -112,7 +112,7 @@ int main(){
 						mr=ms;
 					}					
 				}
-				cout<<"Index size of maximum element of Vector is : "<<pos<<".\nMaximum is :"<<mr<<"."<<endl;
+				cout<<"Nomer maximalinih elementov vectora : "<<pos<<".\nMaximum is :"<<mr<<"."<<endl;
 				system("pause");
 				system("cls");
 				break;
